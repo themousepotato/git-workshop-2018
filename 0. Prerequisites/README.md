@@ -1,28 +1,14 @@
-## Speakers:
-
-	* 
-	*
-	*
-	*
-
-## Co-ordinators:
-
-	*
-	*
-	*
-	*
-
-# Pre-requisites
+# Prerequisites
 
 Welcome all to this Git/ GitHub workshop.
 
 
 ### What are we going to learn today?
 
-1. Basic Linux Commands
-2. Introduction to Version Control
-3. Track your project using git
-4. Contributing to a project
+1. Basic Linux Commands.
+2. Introduction to Version Control.
+3. Track your project using git.
+4. Contributing to a project.
 
 ### Make your GitHub account: https://www.github.com.
 
